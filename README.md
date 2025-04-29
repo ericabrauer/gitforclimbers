@@ -1,15 +1,15 @@
-# git4knitters
-We describe git in terms of knitting, and we do not limit our analogies. We love all fibreholics! Join us!
+# gitforclimbers
+Based on gitforknitters repo which describes git in terms of knitting, and doesn't limit their analogies. They love all fibreholics! Join them!
 
 Initial [twitter convo](https://twitter.com/yvonnezlam/status/589585522735063040).
 
 ## Rationale
 
-Learning can be difficult. Learning Git even more-so. This project attempts to couch Git in knitting terms. Although it's a bit of fun, the use of analogies and foundation learning is a known and respected tool for curriculum designers and educators.
+Learning can be difficult. Learning Git even more-so. This project attempts to couch Git in rock climbing terms. Although it's a bit of fun, the use of analogies and foundation learning is a known and respected tool for curriculum designers and educators.
 
 ## Terms
 
-A glossary of git terms in the context of knitting.
+A glossary of git terms in the context of climbing.
 
 Git also offers its own [glossary of git terms](https://www.kernel.org/pub/software/scm/git/docs/gitglossary.html).
 
