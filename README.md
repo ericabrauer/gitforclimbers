@@ -1,5 +1,5 @@
 # gitforclimbers
-Based on gitforknitters repo which describes git in terms of knitting, and doesn't limit their analogies. They love all fibreholics! Join them!
+Based on the [gitforknitters repo](https://github.com/gitforknitters/gitforknitters) which describes git in terms of knitting, and doesn't limit their analogies. They love all fibreholics! Join them!
 
 Initial [twitter convo](https://twitter.com/yvonnezlam/status/589585522735063040).
 
